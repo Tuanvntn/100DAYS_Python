@@ -1,0 +1,45 @@
+question_data = [
+                      {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Video Games",
+                       "question": "Rebecca Chambers does not appear in any Resident Evil except for the original Resident Evil and the Gamecube remake.",
+                       "correct_answer": "False", "incorrect_answers": ["True"]},
+                      {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Video Games",
+                       "question": "In Splatoon, the Squid Sisters are named Tako and Yaki.", "correct_answer": "False",
+                       "incorrect_answers": ["True"]},
+                      {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Video Games",
+                       "question": "Tetris is the #1 best-selling video game of all-time.",
+                       "correct_answer": "False", "incorrect_answers": ["True"]},
+                      {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Video Games",
+                       "question": "The 2005 video game &quot;Call of Duty 2: Big Red One&quot; is not available on PC.",
+                       "correct_answer": "True", "incorrect_answers": ["False"]},
+                      {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Video Games",
+                       "question": "The main playable character of the 2015 RPG &quot;Undertale&quot; is a monster.",
+                       "correct_answer": "False", "incorrect_answers": ["True"]},
+                      {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Video Games",
+                       "question": "Deus Ex (2000) does not feature the World Trade Center because it was destroyed by terrorist attacks according to the game&#039;s plot.",
+                       "correct_answer": "True", "incorrect_answers": ["False"]},
+                      {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Video Games",
+                       "question": "In the &quot;Half-Life&quot; series, &quot;H.E.V&quot; stands for &quot;Hazardous Evasiveness Vest&quot;",
+                       "correct_answer": "False", "incorrect_answers": ["True"]},
+                      {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Video Games",
+                       "question": "In the game &quot;Subnautica&quot;, a &quot;Spadefish&quot; will attack you.",
+                       "correct_answer": "False", "incorrect_answers": ["True"]},
+                      {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Video Games",
+                       "question": "Donkey Kong was originally set to be a Popeye arcade game.",
+                       "correct_answer": "True",
+                       "incorrect_answers": ["False"]},
+                      {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Video Games",
+                       "question": "There are 6 legendary cards in &quot;Clash Royale&quot;.",
+                       "correct_answer": "False",
+                       "incorrect_answers": ["True"]},
+
+                 ]
+
+# question_data = [
+#     {"text": "1 + 1 = 2", "answer": "True"},
+#     {"text": "2 + 2 = 4", "answer": "True"},
+#     {"text": "4 + 1 = 6", "answer": "False"},
+#     {"text": "6 + 1 = 8", "answer": "False"},
+#     {"text": "8 + 8 = 15", "answer": "False"},
+# ]
+
+
